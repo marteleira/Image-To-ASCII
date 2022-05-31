@@ -1,7 +1,8 @@
 # Image-To-ASCII
 This program can convert any image into ASCII Art
 <br>
-How to use<br>
+<br>
+<strong>How to use:</strong><br>
 Inside the binary folder put your image with name: "original.jpg" ,
 then run the program
 <div style="text-align:center;">
